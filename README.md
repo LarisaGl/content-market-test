@@ -17,7 +17,7 @@
 #### Installation with npm:
 
 ```bash
-git clone https://github.com/LarisaGl/chulakov-studio_test.git folder_name
+git clone https://github.com/LarisaGl/content-market-test.git folder_name
 cd folder_name
 npm install
 ```
